@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Weathor-app/static/css/main.766a1228.css",
+    "main.js": "/Weathor-app/static/js/main.86b83b09.js",
+    "static/js/453.64512fd7.chunk.js": "/Weathor-app/static/js/453.64512fd7.chunk.js",
+    "static/media/cloud.png": "/Weathor-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Weathor-app/index.html",
+    "main.766a1228.css.map": "/Weathor-app/static/css/main.766a1228.css.map",
+    "main.86b83b09.js.map": "/Weathor-app/static/js/main.86b83b09.js.map",
+    "453.64512fd7.chunk.js.map": "/Weathor-app/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.766a1228.css",
+    "static/js/main.86b83b09.js"
+  ]
+}
